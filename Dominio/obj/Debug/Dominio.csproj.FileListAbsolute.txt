@@ -1,0 +1,6 @@
+C:\Users\Administrador\Desktop\Maxi Programa Nivel 2 C#\TPFinalNivel2_Frenquelli\Dominio\bin\Debug\Dominio.dll
+C:\Users\Administrador\Desktop\Maxi Programa Nivel 2 C#\TPFinalNivel2_Frenquelli\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Administrador\Desktop\Maxi Programa Nivel 2 C#\TPFinalNivel2_Frenquelli\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Maxi Programa Nivel 2 C#\TPFinalNivel2_Frenquelli\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Maxi Programa Nivel 2 C#\TPFinalNivel2_Frenquelli\Dominio\obj\Debug\Dominio.dll
+C:\Users\Administrador\Desktop\Maxi Programa Nivel 2 C#\TPFinalNivel2_Frenquelli\Dominio\obj\Debug\Dominio.pdb
